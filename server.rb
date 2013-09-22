@@ -1,5 +1,5 @@
 require 'sinatra'
-require 'JSON'
+require 'json'
 
 $posts = {}
 $posts[123] = {:title => "Rails is Omakase",
